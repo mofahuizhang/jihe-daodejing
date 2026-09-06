@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "几何道德经：道-德解析几何体系"
+message: "如果您在学术研究中使用了本框架，请按以下格式引用。"
+type: software
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+    email: "mofahuizhang@163.com"
+version: 1.0.0
+date-released: "2026-09-06"
+license:
+  - "CC-BY-NC-4.0"
+  - "Commercial License (Annual)"
+url: "https://gitee.com/mofahuizhang/jihe-daodejing"
+abstract: |
+  几何道德经建立道轴(X)与德轴(Y)的双维坐标体系，将《道德经》的40个核心概念
+  形式化为解析几何元素（点、轴、线、区域、距离、变换、方程），并选取关键章节
+  进行逐条几何解读。核心原创贡献包括：道的三层含义辨析（本体/规律/动力分别对应
+  底空间Ω/X轴/Z轴微分算子）、分有前沿凹性的微观证明（P4预算流型性约束）、
+  "反者道之动"的数学表述（临界点处导数变号）。元公理归约至注意力预算硬约束内核。
+keywords:
+  - "道德经"
+  - "解析几何"
+  - "道"
+  - "德"
+  - "注意力预算"
+  - "双维坐标"
+  - "分有前沿"
+  - "返本转向"
+  - "结构复用"
+  - "中国哲学"
+repository-code: "https://gitee.com/mofahuizhang/jihe-daodejing"
